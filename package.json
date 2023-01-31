@@ -1,0 +1,11 @@
+{
+  "name": "react-useonline",
+  "version": "1.0.0",
+  "description": "this package checks if a user is connected to the internet or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Tanwar",
+  "license": "ISC"
+}
