@@ -1,6 +1,6 @@
 {
   "name": "react-useonline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this package checks if a user is connected to the internet or not",
   "main": "index.js",
   "scripts": {
